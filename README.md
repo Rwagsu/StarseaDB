@@ -1,5 +1,5 @@
 > [!CAUTION]
-> StarseaDB 现在将成为 [DrownedOwO](https://github.com/Starcloudsea/DrownedOwO), StarseaDB即刻将成为历史😰
+> StarseaDB 现在将成为 [RwagsuOwO](https://github.com/Rwagsu/RwagsuOwO), StarseaDB即刻将成为历史😰
 
 <div align="center">
 
